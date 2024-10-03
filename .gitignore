@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log
+
+# 数据库
+*.db
+*.sqlite3
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+# 项目特定文件
+*.egg-info/
+dist/
+build/
