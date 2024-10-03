@@ -1,4 +1,4 @@
-# 5步12级经典算法复现计划
+# AlgoPhoenix - 算法复现计划
 
 这个项目旨在复现一系列经典的机器学习和深度学习算法。我们的目标是通过实现这些算法来深入理解它们的工作原理。
 
@@ -17,8 +17,8 @@
 克隆仓库并安装依赖:
 
 ```bash
-git clone https://github.com/yourusername/5步12级经典算法复现计划.git
-cd 5步12级经典算法复现计划
+git clone https://github.com/JayLiu7319/AlgoPhoenix.git
+cd AlgoPhoenix
 pip install -r requirements.txt
 ```
 

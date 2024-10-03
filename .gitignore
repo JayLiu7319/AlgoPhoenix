@@ -28,3 +28,6 @@ Thumbs.db
 *.egg-info/
 dist/
 build/
+
+# .venv
+.venv/
