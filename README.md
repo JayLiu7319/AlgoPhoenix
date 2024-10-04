@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## 贡献
 
-欢迎贡献!请阅读`CONTRIBUTING.md`了解如何开始。
+欢迎贡献！请阅读`CONTRIBUTING.md`了解如何开始。
 
 ## 许可证
 
